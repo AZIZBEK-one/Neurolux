@@ -1,32 +1,16 @@
 # Neurolux
 AI platform for intelligent automation
-# Neurolux  
+# Neurolux
 
-🚀 **Neurolux** — an AI platform for intelligent automation.  
-Our mission is to simplify complex processes and enhance efficiency in business, education, and daily life through artificial intelligence.  
+Neurolux is an AI-driven platform focused on building intelligent solutions
+that combine deep learning, automation, and smart decision-making.
 
-## 🎯 Goals
-- Build automated decision-making systems  
-- Optimize business processes with AI  
-- Provide fast, reliable, and user-friendly AI solutions  
+## 🚀 Features
+- Advanced AI algorithms
+- Easy-to-use interface
+- Scalable architecture
 
-## ⚡ Core Areas
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Natural Language Processing (NLP)  
-- 📊 Automated Analytics & Forecasting  
-- 🌐 Cloud-based AI Services  
-
-## 📌 Future Plans
-- Launch Neurolux AI API  
-- Develop a complete platform with user interface  
-- Integrate mobile and web applications  
-
-## 🛠️ Technologies
-- Python  
-- TensorFlow / PyTorch  
-- FastAPI / Django  
-- Docker, GitHub Actions  
-
----
-
-💡 **Neurolux** — a step towards the intelligent future.  
+## 📌 Goals
+- Create powerful AI tools
+- Make technology accessible globally
+- Build long-term value
